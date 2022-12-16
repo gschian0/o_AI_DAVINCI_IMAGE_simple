@@ -1,2 +1,2 @@
-# o_AI_DAVINCI_IMAGE_simple
+# ASK_AI_FOR_AI_OPEN_AI
 Created with CodeSandbox
